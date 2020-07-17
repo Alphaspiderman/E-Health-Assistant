@@ -5,7 +5,7 @@
 THIS IS CURRENTLY A THEORITICAL APP, DEVELOPMENT IS NOT BEEN ACTIVELY WORKED ON. THE IDEA IS STILL OWNED BY REPOSITORY OWNER
 
 ## Disclamer
-THIS APP IS NOT MEDICAL ADVISE NOR IS FOOL PROOF MEATHOD TO NEGATE ANY DETORIATION CAUSED BY EXTENED HOURS IN FORNT OF A COMPUTER.
+THIS APP IS NOT MEDICAL ADVISE NOR IS FOOL PROOF METHOD TO NEGATE ANY DETORIATION CAUSED BY EXTENED HOURS IN FORNT OF A COMPUTER.
 
 ## App Functions
 An app that would periodically remind the user to check their body posture and blink regularly. It would also manage the screen's color to reduce blue light emission. This app is aimed towards students studying from home as they are not used to the long hours in front of a screen and do not know how to manage their Body posture unlike Adults who have been working like this for years.
